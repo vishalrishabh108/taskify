@@ -26,5 +26,6 @@ Taskify is a React.js-based task manager where users can add, edit, delete, and 
 3. Run `npm start`
 
 ## 🌐 Live Demo:
-[Click here to view Taskify](https://your-netlify-link.netlify.app)
+https://taskifynetlifyapp.netlify.app
+
 
